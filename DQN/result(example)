@@ -1,0 +1,15 @@
+result
+
+Populating replay memory...
+Step 0 (2524) @ Episode 1/10000, loss: None
+WARNING:tensorflow:From C:/PycharmProjects/reinforcement-learning/DQN/dqn.py:154: get_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_global_step
+Step 215 (2739) @ Episode 1/10000, loss: 0.030800795182585716
+Episode Reward: 1.0
+Step 164 (2903) @ Episode 2/10000, loss: 8.589634671807289e-05
+Episode Reward: 0.0
+Step 231 (3134) @ Episode 3/10000, loss: 0.0001305026380578056
+Episode Reward: 1.0
+Step 230 (3364) @ Episode 4/10000, loss: 7.781982276355848e-06
+Process finished with exit code -1
