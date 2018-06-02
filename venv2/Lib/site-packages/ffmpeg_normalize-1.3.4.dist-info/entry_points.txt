@@ -1,0 +1,3 @@
+[console_scripts]
+ffmpeg-normalize = ffmpeg_normalize.__main__:main
+
